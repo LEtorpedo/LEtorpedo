@@ -1,13 +1,12 @@
 <p align="center">
-  <pre>
-    
+  <pre style="color: #40E0D0; display: inline-block; text-align: left;">
 ████████╗ ██████╗ ██████╗ ██████╗ ███████╗██████╗  ██████╗ 
 ╚══██╔══╝██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔═══██╗
    ██║   ██║   ██║██████╔╝██████╔╝█████╗  ██║  ██║██║   ██║
    ██║   ██║   ██║██╔══██╗██╔═══╝ ██╔══╝  ██║  ██║██║   ██║
    ██║   ╚██████╔╝██║  ██║██║     ███████╗██████╔╝╚██████╔╝
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝╚═════╝  ╚═════╝ 
-                                                      
+                                                           
   </pre>
 </p>
 
@@ -24,8 +23,26 @@
 
 
 
-| <a href="https://github.com/LEtorpedo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LEtorpedo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LEtorpedo's github stats" /></a> | <a href="https://github.com/LEtorpedo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEtorpedo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/LEtorpedo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LEtorpedo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="LEtorpedo's github stats" /></a> | <a href="https://github.com/LEtorpedo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEtorpedo&layout=compact&theme=buefy&hide_border=true" alt="LEtorpedo's github stats" /></a> |
 | ------------- | ------------- |
+
+<br />
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=LEtorpedo&theme=buefy&hide_border=true" alt="GitHub 贡献统计" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEtorpedo&bg_color=FFFEFE&color=24292E&line=7957D5&point=7957D5&area=true&hide_border=true&area_color=E8E0F9" alt="GitHub 活动图" />
+  </a>
+</p>
+
+<br />
 
 #### 置顶仓库 (Top Repositories)
 
